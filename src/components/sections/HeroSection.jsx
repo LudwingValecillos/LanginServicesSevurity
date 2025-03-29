@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import heroImage from "../../assets/images/seguridad-familia-895x530.jpg";
-import image from "../../assets/images/undraw_security-on_btwg.png";
 import image2 from "../../assets/images/tecnico.jpg";
 
 const HeroSection = () => {
