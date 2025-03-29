@@ -8,7 +8,6 @@ import AboutSection from "./sections/AboutSection";
 import ServicesSection from "./sections/ServicesSection";
 import EquipmentSection from "./sections/EquipmentSection";
 import ProjectsSection from "./sections/ProjectsSection";
-import TechnologySection from "./sections/TechnologySection";
 import FAQSection from "./sections/FAQSection";
 import ContactSection from "./sections/ContactSection";
 import WhatsAppButton from "./WhatsAppButton";
@@ -29,7 +28,6 @@ const SecurityLandingPage = () => {
         <ServicesSection />
         <EquipmentSection />
         <ProjectsSection />
-        {/* <TechnologySection /> */}
         <FAQSection />
         <ContactSection />
         <WhatsAppButton />
